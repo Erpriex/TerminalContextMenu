@@ -1,5 +1,4 @@
 # TerminalContextMenu
-Scripts regedit qui ajoutent l'ouverture du Terminal dans le dossier courant via le menu contextuel de Windows
+Script regedit qui ajoute l'ouverture du CMD dans le menu contextuel de Windows (comme sur Linux)
 *******************
-WindowsTerminalContext : [Windows Terminal](https://www.microsoft.com/fr-fr/p/windows-terminal/9n0dx20hk701) (si installé) <br/>
-CmdContext : cmd.exe (défaut)
+![TerminalContextMenu](https://i.imgur.com/OxDlb3Q.png)
